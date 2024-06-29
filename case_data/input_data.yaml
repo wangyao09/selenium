@@ -1,0 +1,11 @@
+search_terms:
+  - index: '1'
+    term: 'selenium'
+    expected_title: 'selenium_百度搜索'
+#  - index: '2'
+#    term: 'pytest'
+#    expected_title: 'pytest_百度'
+#  - index: '3'
+#    term: 'unittest'
+#    expected_title: 'unittest'
+

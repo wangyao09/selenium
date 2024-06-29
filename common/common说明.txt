@@ -1,0 +1,1 @@
+公共方法  read write 等

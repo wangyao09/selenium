@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sat Jun 29 00:41:50 CST 2024","Sat Jun 29 00:41:53 CST 2024","2592","test_cases","test_baidu_input","TestBaidu","","","test_baidu_search_case[data2]",""
+"passed","Sat Jun 29 00:49:13 CST 2024","Sat Jun 29 00:49:18 CST 2024","4710","test_cases","test_baidu_input","TestBaidu","","","test_baidu_search_case[data0]",""
+"failed","Sat Jun 29 00:41:47 CST 2024","Sat Jun 29 00:41:50 CST 2024","3284","test_cases","test_baidu_input","TestBaidu","","","test_baidu_search_case[data1]",""
